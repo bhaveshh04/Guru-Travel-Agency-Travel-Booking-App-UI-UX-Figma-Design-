@@ -83,7 +83,8 @@ Illustrations/Icons – From Figma Community
 🚀 Live Prototype
 
 👉 Click the link below to view the interactive Figma prototype:
-🔗 Figma Prototype: [https://www.figma.com/proto/wc1WLJXP4yxj8Mw9XwvRee/Guru-Krupa---Travel-Agency?node-id=256-63&t=NUCrSfjlnGywoUAr-1]
+[<kbd> 🌍 View Figma Prototype </kbd>](https://www.figma.com/proto/wc1WLJXP4yxj8Mw9XwvRee/Guru-Krupa---Travel-Agency?node-id=256-63&t=NUCrSfjlnGywoUAr-1)
+
 
 📸 Project Screenshots
 
